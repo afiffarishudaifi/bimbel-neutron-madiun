@@ -69,3 +69,11 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # project-system-online-test-madiun
 Online test berbasis laravel
 >>>>>>> 685905b... Initial commit
+
+
+cara penggunaan yaitu 
+1. git clone 
+2. composer install
+3. setting env
+4. import database
+5. php artisan key:generate
