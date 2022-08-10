@@ -1,0 +1,21 @@
+{
+    "name": "alza/alza_menu",
+    "description": "Menu Manager Like a wordpress form alzaCMS",
+    "type": "library",
+    "require": {
+        "php": "7.3|8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alza\\AlzaMenu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bimacoding",
+            "email": "bimacoding@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

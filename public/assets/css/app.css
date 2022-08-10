@@ -1,0 +1,8 @@
+.az-ulistcustom {
+    list-style: none;
+}
+
+.az-ulistcustom li {
+    display: inline-block;
+    width: 33%;
+}

@@ -1,0 +1,12 @@
+<?php
+namespace Alza\Alza_fileupload\Facades;
+
+use Illuminate\Support\Facades\Facade;
+
+class Fileuploader extends Facade {
+
+    protected static function getFacadeAccessor()
+    {
+        return 'fileuploader';
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "name": "alza/alza_fileupload",
+    "description": "Library for Multiple Upload File with javascript",
+    "type": "library",
+    "require": {
+        "php": "7.3|8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alza\\AlzaFileupload\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bimacoding",
+            "email": "bimacoding@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

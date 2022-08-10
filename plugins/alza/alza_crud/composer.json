@@ -1,0 +1,21 @@
+{
+    "name": "alza/alza_crud",
+    "description": "Crud Generator Alza CMS",
+    "type": "library",
+    "require": {
+        "php": "7.3|8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Alza\\AlzaCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bimacoding",
+            "email": "bimacoding@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
